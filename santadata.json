@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+
+            "network": "is",
+
+            "max_ban": "bc8c90ca781662b8",
+            "max_int": "41dd5fecde3e07e6",
+
+            "is_app_key": "157f9a55d",
+            "is_ban": "8793559",
+            "is_int": "8793557",
+
+            "admob_ban": "ca-app-pub-4410161984376992/6519235682",
+            "admob_int": "ca-app-pub-4410161984376992/8999140930",
+
+            "name": "BTS",
+            "photo": "https://hichamhiya.github.io/btscall/profil.jpg",
+            "voice": "https://hichamhiya.github.io/btscall/audio.mp3",
+            "video": "https://hichamhiya.github.io/btscall/jimin.mp4",
+            "stories": [
+                "https://hichamhiya.github.io/btscall/bts2.jpg",
+                "https://hichamhiya.github.io/btscall/bts1.jpg",
+                "https://hichamhiya.github.io/btscall/bts3.jpg",
+                "https://hichamhiya.github.io/btscall/bts4.jpg",
+                "https://hichamhiya.github.io/btscall/bts5.jpg",
+                "https://hichamhiya.github.io/btscall/bts6.jpg"
+            ],
+            "wallpapers": [
+                "https://hichamhiya.github.io/btscall/bts2.jpg",
+                "https://hichamhiya.github.io/btscall/bts1.jpg",
+                "https://hichamhiya.github.io/btscall/bts3.jpg",
+                "https://hichamhiya.github.io/btscall/bts4.jpg",
+                "https://hichamhiya.github.io/btscall/bts5.jpg",
+                "https://hichamhiya.github.io/btscall/bts6.jpg",
+                "https://hichamhiya.github.io/btscall/bts7.jpg",
+                "https://hichamhiya.github.io/btscall/bts8.jpg"
+            ]
+
+        }
+    ]
+}
