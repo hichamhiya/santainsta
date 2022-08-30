@@ -2,14 +2,14 @@
     "data": [
         {
 
-            "network": "admob",
+            "network": "is",
 
             "max_ban": "bc8c90ca781662b8",
             "max_int": "41dd5fecde3e07e6",
 
-            "is_app_key": "157f9a55d",
-            "is_ban": "8793559",
-            "is_int": "8793557",
+            "is_app_key": "1643f643d",
+            "is_ban": "10174081",
+            "is_int": "10174079",
 
             "admob_ban": "ca-app-pub-3940256099942544/6300978111",
             "admob_int": "ca-app-pub-3940256099942544/1033173712",
